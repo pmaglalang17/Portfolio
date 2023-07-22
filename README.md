@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 Welcome to my GitHub portfolio! This repository showcases my data science and machine learning projects. Each project is contained in its own folder, and the code, data, and relevant documentation are included within.
 
 # Project 1: Customer Churn Prediction for Telco Company
