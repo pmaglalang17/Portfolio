@@ -18,11 +18,11 @@ The analysis is performed using a classification approach. I preprocess the data
 
 ## Description:
 
-This GitHub repository showcases a database project and SQL queries related to managing a music store. The database includes tables for customers, artists, items (music albums), employees, orders, and order details. The project aims to demonstrate proficiency in SQL database management, querying, and manipulation.
+This project showcases SQL queries related to managing a music store. The database includes tables for customers, artists, items (music albums), employees, orders, and order details. The project aims to demonstrate proficiency in SQL database management, querying, and manipulation.
 
 ## SQL Queries
 
-The repository contains a series of SQL queries that demonstrate various operations and functionalities of the database:
+The project contains a series of SQL queries that demonstrate various operations and functionalities of the database:
 
 Retrieving customer names and phone numbers sorted by last name and first name.
 Displaying customer names, phone numbers, and fax numbers for customers from specific states.
@@ -39,4 +39,22 @@ Combining customer last names, first names, and formatting phone numbers in a sp
 
 ## Usage
 You can explore and use this repository to understand SQL database management, querying techniques, and database manipulation. 
+
+# Project 3: Excel Project
+
+## Description: 
+
+This project shows a dataset of a bike business that contains different information about customers. The data set was used to determine the demographics of those who decided to buy a bike. The reason for the analysis was to understand the target segments the company should focus in the market.
+
+## Data Preprocessing
+
+The data used M and S for marital status and F and M for gender which were changed in order to increase readability. Duplicate values were dropped in order to prevent the skewing of our data set. Bins were created for age groups in order to make it easier for the viewer to understand the charts that were created.
+
+## Pivot Tables and Charts
+
+Pivot Tables were used to explore different demographics such as gender, commute distance, age and car ownership. Charts were then created to visualize the data.
+
+## Dashboard
+
+The charts that were generated from the pivot tables were used in the dashboard. Slicers were added on the side to give the user more options when interpreting the data.
 
